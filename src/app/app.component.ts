@@ -9,5 +9,6 @@ export class AppComponent  {
   name = 'Angular';
 
   solveToreason(): void {    
+    console.log('reason');
   }
 }
